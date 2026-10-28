@@ -1,0 +1,10 @@
+O telefone celular é um aparelho eletrônico portátil que permite fazer chamadas, enviar mensagens e acessar a internet sem fio por meio de ondas de rádio.
+
+• Ondas de rádio: O aparelho envia e recebe sinais de rádio que se conectam a antenas de telefonia (torres) próximas.
+• Chip (SIM ou eSIM): É o cartão que identifica o seu número e conecta você à sua operadora de celular.
+• Internet móvel: Utiliza redes de dados (como 4G e 5G) ou Wi-Fi para navegar na rede, abrir aplicativos e enviar mensagens instantâneas.
+
+Tipos de aparelhos
+
+• Celular básico (Feature phone): Foca apenas em ligações e mensagens de texto, com bateria que dura muitos dias e sem acesso à internet complexa.
+• Smartphone: Um verdadeiro computador de bolso que roda sistemas operacionais como Android ou iOS, permitindo usar câmera avançada, GPS, aplicativos de banco e redes sociais.

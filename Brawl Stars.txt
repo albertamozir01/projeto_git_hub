@@ -1,0 +1,5 @@
+O Brawl Stars é um jogo eletrônico de tiro e ação em terceira pessoa com visão superior, desenvolvido para celulares e tablets (iOS e Android), focado em partidas rápidas e multijogador.
+• Personagens (Brawlers): Você escolhe entre dezenas de personagens únicos chamados Brawlers, cada um com armas, ataques normais, pontos fortes e uma habilidade especial chamada Super.
+• Controles: A tela possui comandos simples. O direcional esquerdo move o personagem, enquanto o direcional direito serve para mirar e disparar os ataques. Causar dano nos inimigos recarrega a habilidade Super.
+• Modos de Jogo: As partidas acontecem em vários modos (muitos deles jogados em equipes de três contra três), onde o objetivo muda conforme a regra da partida: capturar gemas, derrotar rivais, roubar o cofre do inimigo ou controlar áreas do mapa.
+• Recompensas e Troféus: Cada vitória concede troféus que aumentam o seu ranque geral e ajudam a desbloquear novos recursos, itens e personagens.
